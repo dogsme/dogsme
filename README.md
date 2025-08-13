@@ -20,6 +20,3 @@ I'm a tech enthusiast passionate about blockchain, open source, and automation.
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dogsme&show_icons=true&theme=tokyonight)
 
 ---
-
-## ⏱ Last Update
-`{{last_update}}`
