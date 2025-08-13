@@ -1,4 +1,4 @@
-name: README
+name: README Auto-Update
 
 on:
   schedule:
@@ -8,19 +8,17 @@ on:
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout repo
+      - name: Checkout Repo
         uses: actions/checkout@v3
 
-      - name: README
+      - name: Update Last Update Timestamp
         run: |
           DATE=$(date +"%Y-%m-%d %H:%M:%S %Z")
           sed -i "s|{{last_update}}|$DATE|g" README.md
 
-      - name: Commit changes
+      - name: Commit and Push Changes
         run: |
           git config --global user.name "dogsme"
-          git config --global user.email "your-email@example.com"
-          git add README.md
-          git commit -m "chore: update README [skip ci]" || echo "No changes"
-          git push
+          git config
