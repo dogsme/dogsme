@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi there 👋 I'm dogsme
 
-<!--
-**dogsme/dogsme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Banner](https://i.imgur.com/1QgrNNw.png)
 
-Here are some ideas to get you started:
+## 🚀 About Me
+I'm a tech enthusiast passionate about blockchain, open source, and automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Node runner & active testnet contributor  
+- 🔍 Skilled in CLI debugging & troubleshooting
+- 🌱 Always exploring new blockchain technologies  
+- 🎯 Goal: Contribute to decentralized ecosystems and strengthen Web3 infrastructure
+
+---
+
+## 🌐 Connect With Me
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/depinos1337)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1011685922372321422)
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dogsme)
+
+---
+
+## 📊 GitHub Stats
+![Dogsme's GitHub stats](https://github-readme-stats.vercel.app/api?username=dogsme&show_icons=true&theme=radical)
+
+---
+
+## 🕒 My Local Time
+<!-- TIME_PLACEHOLDER -->
+
+---
+
+## 🐦 Latest Tweet
+<!-- TWEET_PLACEHOLDER -->
+
+---
+
+⭐ From [dogsme](https://github.com/dogsme)
