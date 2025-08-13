@@ -1,7 +1,5 @@
 # Hi there 👋 I'm dogsme
 
-![Banner](https://i.imgur.com/1QgrNNw.png)
-
 ## 🚀 About Me
 I'm a tech enthusiast passionate about blockchain, open source, and automation.
 
