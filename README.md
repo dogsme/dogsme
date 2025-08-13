@@ -1,6 +1,4 @@
-# Hi there 👋 I'm dogsme
-
-# 🐾 dogsme
+# Hi there 🐾 I'm dogsme
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/dogsme)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/depinos1337)
